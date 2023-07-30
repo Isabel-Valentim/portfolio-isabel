@@ -5,11 +5,9 @@ sidebar.addEventListener("click", openSideBar);
 
 let ActiveSidebarContent = 	`
 <ul id = 'sidebarLinks'>     	
-<li><a href = "#">Sobre mim</a></li>         
-<li><a href = "#">Artigos</a></li>         
-<li><a href = "#">SQL</a></li>         
-<li><a href = "#">R</a></li>         
-<li><a href = "#">JS, HTML, CSS</a></li>     
+<li><a href = "sobre-mim.html">Sobre mim</a></li>         
+<li><a href = "artigos.html">Artigos</a></li>         
+<li><a href = "projetos.html">Projetos</a></li>         
 </ul>
 `;
 
